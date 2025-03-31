@@ -1,6 +1,9 @@
-## computer nerd
+## hello, I'm Anton!
 
+I'm guy who is interested in most things, among things are cooking and programming.
 
+- Currently studying High Performance Computer Systems master at Chalmers, fourth year
+- Currently the Low Voltage Lead for Chalmers Solar Team☀️🏎️, where I made the ECUs PCBs for the car and also programmed them among other things.
 
 
 <!--
