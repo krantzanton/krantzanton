@@ -1,4 +1,4 @@
-## computer nerd or smth
+## computer nerd
 
 
 
