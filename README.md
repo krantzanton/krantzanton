@@ -7,7 +7,7 @@ I'm guy who is interested in most things, among things are cooking and programmi
 - Also redid the website for Chalmers Solar Team
 
 ### tools and langs
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cmake,vim,mac)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cmake,vim,macos)](https://skillicons.dev)
 
 <!--
 **krantzanton/krantzanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
