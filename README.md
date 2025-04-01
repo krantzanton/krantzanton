@@ -1,6 +1,6 @@
 ## hello
 
-interested in most things, among things are cooking and programming.
+Interested in most things, among things are cooking and programming.
 
 - Currently studying High Performance Computer Systems master at Chalmers, fourth year
 - Low Voltage Lead for Chalmers Solar Team 2025☀️🏎️ I made the ECUs PCBs for the car and also programmed them among other things.
