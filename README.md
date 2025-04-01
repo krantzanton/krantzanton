@@ -6,6 +6,8 @@ I'm guy who is interested in most things, among things are cooking and programmi
 - Currently the Low Voltage Lead for Chalmers Solar Team☀️🏎️, where I made the ECUs PCBs for the car and also programmed them among other things.
 - Also redid the website for Chalmers Solar Team
 
+### Fav Langs
+[![My Skills](https://skillicons.dev/icons?i=cpp,c)](https://skillicons.dev)
 
 <!--
 **krantzanton/krantzanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
