@@ -3,8 +3,7 @@
 I'm guy who is interested in most things, among things are cooking and programming.
 
 - Currently studying High Performance Computer Systems master at Chalmers, fourth year
-- Currently the Low Voltage Lead for Chalmers Solar Team☀️🏎️, where I made the ECUs PCBs for the car and also programmed them among other things.
-- Also redid the website for Chalmers Solar Team
+- Low Voltage Lead for Chalmers Solar Team 2025☀️🏎️ I made the ECUs PCBs for the car and also programmed them among other things.
 
 ### tools and langs
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,bash,cmake,neovim,apple,linux)](https://skillicons.dev)
