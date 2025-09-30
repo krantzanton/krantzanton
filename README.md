@@ -6,7 +6,7 @@ Interested in most things, among things are cooking and programming.
 - Low Voltage Lead for Chalmers Solar Team 2025☀️🏎️ I made the ECUs PCBs for the car and also programmed them among other things.
 
 ### tools and langs
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,bash,cmake,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,bash,cmake,linux)](https://skillicons.dev)
 
 <!--
 **krantzanton/krantzanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
